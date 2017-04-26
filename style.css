@@ -1,0 +1,31 @@
+#header { background-color:black;
+          color:white;
+          font-family:calibri;
+          height:100px;
+          text-align:center;
+          font-size:50px;
+          padding:5px;
+}   
+
+#menu { background-color:#eeeeee;
+        color:black;
+        font-family:calibri;
+        width:100px;
+        height:300px;
+        padding:5px;
+        float:left 
+} 
+#icerik { widht:350px;
+          font-family:calibri;  
+          padding:10px;
+          float:left;
+}
+#footer  { background-color:black;
+           color:white;
+           text-align:center;
+           padding:5px;
+           font-family:calibri;
+          clear:both;
+}
+                                
+              
